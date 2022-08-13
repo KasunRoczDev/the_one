@@ -1,2 +1,2 @@
-# kr_dev
+# The One
 individual project
